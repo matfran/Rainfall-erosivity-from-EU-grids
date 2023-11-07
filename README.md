@@ -4,3 +4,9 @@ A repository containing the code to simulate time series of rainfall erosivity e
 For a further explanation, see the paper:
 
 Matthews, F., Panagos, P., & Verstraeten, G. (2022). Simulating event-scale rainfall erosivity across European climatic regions. CATENA, 213, 106157. https://doi.org/10.1016/J.CATENA.2022.106157
+
+The sample data to run the script can be found at:
+
+https://doi.org/10.6084/m9.figshare.24517459.v1
+
+
